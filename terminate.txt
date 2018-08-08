@@ -1,0 +1,10 @@
+Dimension:1
+Doublesided:1
+Alphabet:_
+WorkAlphabet:_
+States:q0,qf,q1
+Start:q1
+Final:qf
+Orders:<q0,_,_,R,qf>
+Band:
+_______
